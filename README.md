@@ -3,7 +3,9 @@
 new -> maven project -> add archetype ->
 
 groupId: org.glassfish.jersey.archetypes
-artifactId:jersey-quickstart-webapp>
+
+artifactId:jersey-quickstart-webapp
+
 version: 2.29.1
 
 deletar index.jsp
